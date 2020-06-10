@@ -13,4 +13,4 @@ Para acceder a cada base de datos es necesario crearse un usuario y contraseña 
 La topografia puede bajarse desde la pagina del https://www.ngdc.noaa.gov/mgg/global/ que tienen netCDF o geoTIFF de perfiles
 de terreno con distintas resoluciones (un ejemplo esta aqui presente: 'topografia_Etopo_bedrock.nc').
 
-El otro archivo 'TOPOGRAFIA_ERA5.nc' corresponde con la topografia propia del ERA5. 
+El otro archivo 'TOPOGRAFIA_ERA5.nc' corresponde con la topografia propia del ERA5 para Sudamérica. Si se quiere una topografia con mayor definicion ver el reporistorio de terreno-netCDF. 
